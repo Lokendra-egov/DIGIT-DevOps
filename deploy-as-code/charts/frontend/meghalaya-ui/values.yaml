@@ -16,6 +16,7 @@ initContainers: {}
 # Container Configs
 image:
   repository: "meghalaya-ui"
+  tag: meghalaya-ui-110770121b-2
 replicas: "1"
 httpPort: 80
 healthChecks:

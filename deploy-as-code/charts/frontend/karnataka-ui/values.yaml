@@ -16,6 +16,7 @@ initContainers: {}
 # Container Configs
 image:
   repository: "karnataka-ui"
+  tag: karnataka-ui-1d81d5a0b2-2
 replicas: "1"
 httpPort: 80
 healthChecks:
